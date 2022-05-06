@@ -34,7 +34,7 @@ header nav {
   margin: 7px 0;
 }
 
-header nav li {
+header nav ul li {
   display: inline;
 }
 
